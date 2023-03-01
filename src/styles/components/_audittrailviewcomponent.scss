@@ -1,0 +1,10 @@
+.history-flex{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    
+}
+.history-container{
+    overflow: auto;
+    max-height: 800px;
+}
