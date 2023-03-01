@@ -1,5 +1,5 @@
 import axios from 'axios';
-let BASE_URL = "http://localhost:3001"
+let BASE_URL = "https://api.task-manager.squareboat.info"
 
 export async function getPageItems(pageNumber,perPage){
     try{
