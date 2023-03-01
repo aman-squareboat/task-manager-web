@@ -1,5 +1,5 @@
 import axios from 'axios';
-let BASE_URL = "http://localhost:3000"
+let BASE_URL = "http://localhost:3001"
 
 export async function getPageItems(pageNumber,perPage){
     try{
